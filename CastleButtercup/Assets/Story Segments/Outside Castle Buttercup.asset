@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c246d873b9923c4fb778c3919d02a4c, type: 3}
+  m_Name: Outside Castle Buttercup
+  m_EditorClassIdentifier: 
+  storyText: "Outside Castle Buttercup\r\n\r\nMedieval times\r\n\r\nYou, the great
+    warrior, Bernard, stand before the Castle Buttercup.  You have come here to rescue
+    Princess Luscious who is locked away in the castle tower.  She was kidnapped
+    by the evil King Buttercup \u2013 some grievance over being teased when he was
+    a child in school.  Hey, his last name is BUTTERCUP.  You were not going to just
+    let that slide! \r\n\r\nKing Buttercup and his guards are no match against the
+    strength and agility of a great warrior such as yourself.  Actually, you are
+    quite near sighted and have no eye / hand coordination whatsoever.  But, you
+    are not about to let that keep you from saving your beloved, your honey bunch,
+    your main squeeze, your love bunny\u2026you get the idea.  She is REALLY curvy
+    too!\r\n\r\nThe castle is surrounded by a moat.  A drawbridge stands before you
+    leading across the moat to the castle entrance. \r\n\r\nWhat do you, the great
+    warrior, Bernard, do next?\r\n\r\nPress 1 to employ stealth and swim across the
+    moat\r\n\r\nPress 2 to boldly charge across the drawbridge\r\n"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 69aae0988e4492e4592cbdbdc5172aa6, type: 2}
+  - {fileID: 11400000, guid: ba28a57eaf0a94a4b9f0b2046dbc03c9, type: 2}

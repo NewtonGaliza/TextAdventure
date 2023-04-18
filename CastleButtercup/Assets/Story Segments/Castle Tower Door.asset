@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c246d873b9923c4fb778c3919d02a4c, type: 3}
+  m_Name: Castle Tower Door
+  m_EditorClassIdentifier: 
+  storyText: "Door to Castle Tower\r\n\r\nYou climb the staircase.  At top of the
+    stairs, you face a large, very solid looking door.  The door is locked.  To the
+    right of the door, a key hangs on a hook.\r\n\r\nPress 1 to break the door down
+    using your brute strength \r\n\r\nPress 2 to unlock the door using the key hanging
+    on the hook\r\n\r\nBreak Through Castle Tower Door:\r\n\r\nBreak Through Castle
+    Tower Door\r\n\r\nYour hurl yourself at the door many times attempting to break
+    through.  Your left shoulder is now a mass of nasty looking black and blue bruises. 
+    \r\n\r\nThe door still stands before you with no sign you have had any effect
+    on it. \r\n\r\nThe key is looking like a very attractive option right now. \r\n\r\nPress
+    1 to reconsider your options"
+  nextStorySegments:
+  - {fileID: 11400000, guid: c957417094565e34db9a276682c88fb3, type: 2}
+  - {fileID: 11400000, guid: d7d26f55f6026d248b58048d7ccdfbcf, type: 2}
